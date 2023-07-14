@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var intro = "Hey, I'm Tina!"
+    @State private var intro = "Hi, I'm Tina!"
     var body: some View {
         ZStack {
             Color(hue: 1.0, saturation: 0.133, brightness: 1.0)
